@@ -18,7 +18,13 @@
         <span>Privacy e termini</span>
 
         <nav>
-            
+            <ul>
+                <li>Introduzione</li>
+                <li>Norme sulla Privacy</li>
+                <li>Termini di servizio</li>
+                <li>Tecnologie</li>
+                <li class="blue">Domande frequenti</li>
+            </ul>
         </nav>
     </header>
     

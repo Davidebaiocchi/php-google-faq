@@ -20,3 +20,19 @@ header span {
     position: relative;
     bottom: 20px;
 }
+
+.blue {
+    color: rgb(0, 98, 255);
+    border-bottom: 3px solid rgb(0, 98, 255);
+    height: 29px;
+}
+
+li {
+    display: inline-block;
+    list-style: none;
+    margin-right: 30px;
+    font-size: 18px;
+    color: rgb(68, 68, 68);
+    position: relative;
+    bottom: 5px;
+}
